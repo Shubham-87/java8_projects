@@ -1,5 +1,6 @@
 package com.example.basic;
 
+//This is customised expression
 //@AdviceController --in spring
 public class CuctomisedException extends Exception {
 
